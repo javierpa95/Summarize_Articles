@@ -7,7 +7,7 @@ PDF Summarizer is a tool designed to process and summarize scientific articles i
 ## Features
 
 - **PDF Extraction**: Extracts text from PDF files using `pypdf`.
-- **Summarization**: Utilizes OpenAI's GPT-4 model to generate summaries based on user-defined prompts.
+- **Summarization**: Utilizes OpenAI's GPT-4o-mini model to generate summaries based on user-defined prompts.
 - **Organized Output**: Stores summarized responses in a structured folder system for easy access.
 - **Error Handling**: Robust error handling to manage issues during PDF processing and API interactions.
 
