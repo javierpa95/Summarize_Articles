@@ -16,10 +16,9 @@ PDF Summarizer is a tool designed to process and summarize scientific articles i
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/pdf-summarizer.git
-   cd pdf-summarizer
+   gh repo clone javierpa95/Summerize_Articles
+   cd Summerize_Articles
    ```
-
 
 2. **Install Dependencies**
 
